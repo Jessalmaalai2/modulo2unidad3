@@ -1,0 +1,50 @@
+body {
+    width: 800px;
+    height: 450px;
+}
+
+#caja1 {
+    width: 800px;
+    height: 150px;
+    
+   
+}
+
+h1 {
+    height: 50px;
+    background-color: rgb(4, 160, 160);
+    font-size: 24px;
+    margin: 0px;
+    
+}
+
+ul  {
+    height: 85px;
+    background-color: rgb(93, 240, 9);
+    margin: 0px;
+    padding-top: 15px;
+    
+}
+
+#caja2 {
+    width: 798px;
+    height: 150px;
+    background-color: dimgrey;
+    padding: 0px;
+    display:inline-block;
+    border: 2px solid #ff6550;
+}
+h2 {
+    font-size: 24px;
+}
+#caja3 {
+    width: 800px;
+    height: 150px;
+    background-color: goldenrod;
+    padding: 0px;
+    display:inline-block;
+}
+h3 {
+    font-size: 24px;
+}
+
